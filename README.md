@@ -1,16 +1,16 @@
 # cyberspace
-Professional statement
+**Professional Statement**
 
-I am jefferson joojo yankson. I am currently studying Bsc Information Technology in Ghana majoring in computer security. I am passionate about protecting people and data by ensuring confidentiality, integrity and availability of information to authorized users while adhering to compliance and regulatory laws.
+My name is Jefferson Joojo Yankson, and I am currently pursuing a Bachelor of Science in Information Technology in Ghana, with a major in Computer Security. I am passionate about protecting individuals and data by ensuring the confidentiality, integrity, and availability of information to authorized users while adhering to compliance and regulatory laws.
 
-My core strengths are; Time management. Problem solving skills. Programming.
+My core strengths are time management, problem-solving skills, and programming.
 
-The strengths listed above are now second nature to me. I made them a habit by prioritizing tasks and planning my days to always make sure I manage projects effectively . This enables me to stay organized and always factual.
+These strengths have become second nature to me. I have developed them into habits by prioritizing tasks and planning my days effectively, which allows me to manage projects in an organized and factual manner.
 
-Secondly, I love to help solve problems with my critical thinking skills. Finding innovative solutions to problems has always been something I enjoy doing and is crucial in cybersecurity where fast identification and mitigation is a virtue.
+I also enjoy using my critical thinking skills to solve problems. Finding innovative solutions is something I am passionate about, and it is particularly crucial in cybersecurity, where the fast identification and mitigation of threats is essential.
 
-Lastly, I love the art of programming, as it streamlines workflow and avoids human errors. I use python to automate tasks and SQL to create, interact and query data points in a database.
+Additionally, I appreciate the art of programming, as it streamlines workflows and minimizes human errors. I utilize Python to automate tasks and SQL to create, interact with, and query data points in a database.
 
-I am passionate about the following; Adhering to ethics and compliance. Integrity is a key value in cybersecurity, I uphold to do what’s right, even when it’s difficult, and stick to ethical standards.
+I am also passionate about adhering to ethics and compliance. Integrity is a key value in cybersecurity; I firmly believe in doing what is right, even when it is challenging, and upholding ethical standards.
 
-Collaboration and driving integrity across team members; I believe the power of working together with professionals from diverse backgrounds is essential in tackling evolving threats and mitigating risks and data breaches. I aim to ensure integrity in any team I work in by ensuring transparency to team members.
+Furthermore, I value collaboration and promoting integrity among team members. I believe that working together with professionals from diverse backgrounds is essential in addressing evolving threats and mitigating risks and data breaches. My goal is to ensure integrity within any team I work with by fostering transparency among team members.
