@@ -13,7 +13,7 @@ I am currently on a journey to become a cybersecurity engineer.
 I’m taking Google’s cybersecurity course because I believe it will provide me with a solid understanding of core cybersecurity concepts. 
 This course will also prepare me to pursue the Cisco CyberOps, CompTIA Networking+, and CompTIA security+ certifications. When the journey gets a bit rough, I will refuel my energy.
 
-So far, I have completed 2 out of 8 modules in Google’s cybersecurity course. My certificates can be found in my #education folder.
+So far, I have completed 2 out of 8 modules in Google’s cybersecurity course. My certificates can be found in my education folder.
 
 These are the core skills I have acquired so far, and I will keep updating this list as I progress.
 
