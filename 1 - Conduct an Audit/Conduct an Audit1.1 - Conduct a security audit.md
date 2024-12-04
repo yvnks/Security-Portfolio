@@ -74,10 +74,10 @@ Controls within cybersecurity are grouped into three main categories:
 ## Control Types
 Control types include, but are not limited to:
 
-1. **Preventative**: Designed to prevent an incident from occurring.  
-2. **Corrective**: Restore an asset after an incident.  
-3. **Detective**: Determine whether an incident has occurred or is in progress.  
-4. **Deterrent**: Discourage attacks.
+1. **Preventative**: Preventative controls are designed to prevent an incident from occurring in the first place.  
+2. **Corrective**: Corrective controls are used to restore an asset after an incident..  
+3. **Detective**:  Detective controls are implemented to determine whether an incident has occurred or is in progress.  
+4. **Deterrent**: Deterrent controls are designed to discourage attacks.
 
 These controls work together to provide **defense in depth** and protect assets.
 
@@ -121,16 +121,32 @@ These controls work together to provide **defense in depth** and protect assets.
 | Breach notification within 72 hours          | Yes |     | Maintain current breach response plan.                    | E.U. customers will be notified of any breach within the required timeframe.                   |
 | Proper data classification/inventory         |     | No | Ensure data is inventoried and classified.                | Employees currently have unrestricted access to all data.                                       |
 
+### System and Organizations Controls (SOC type 1, SOC type 2)
+
+| Control                                      | Yes | No | Best Practice                                              | Explanation                                                                                     |
+|----------------------------------------------|-----|----|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| User access policies are established         |     | No | Implement strict user access policies.                    | Employees currently have access to all kinds of data.                                          |
+| Sensitive data (PII/SPII) is confidential/private |     | No | Establish encryption for sensitive data.                  | No rules ensure the confidentiality of data, as encryption is not implemented.                 |
+| Data integrity ensures consistency, accuracy, and validation | Yes |     | Maintain existing data integrity practices.               | Data integrity is in place.                                                                    |
+| Data is available to individuals authorized to access it |     | No | Restrict access to authorized individuals only.           | Data is accessible to all employees, posing potential risks.                                   |
+
+
 ---
 
 ### Recommendations
-- Implement **encryption** to ensure sensitive data is secure.  
-- Adopt the **principle of least privilege** to restrict employee access to only necessary resources.  
-- Introduce **separation of duties** to avoid conflicts in roles.  
-- Deploy an **intrusion detection system (IDS)** for threat alerts.  
-- Define robust **password policies** and use a **password management system**.  
-- Regularly back up critical data to ensure business continuity.  
-- Schedule **daily maintenance** for legacy systems to keep them updated and secure.
 
-By following these practices, Botium Toys can enhance its security posture and achieve compliance with necessary regulations.
+Several controls need to be implemented to ensure the confidentiality of customers' data (SPII/PII). These principles could include:
+
+- **Encryption** to ensure that data is only accessible to authorized users.
+- **Principle of Least Privilege**: Employees are strictly provided with the exact resources they need to perform a task.
+- **Separation of Duties**: Prevent employees from having multiple privileges in the organization.
+- **Intrusion Detection System (IDS)** to alert any malicious behavior.
+- **Password Policies** to outline guidelines for a robust password.
+- **Password Management Systems** to store passwords in case of any password issues.
+- **Backups** to ensure business continuity in case of any breach.
+- **Daily Maintenance of Legacy Systems** to receive regular updates and patches to prevent them from being vulnerable.
+
+These practices will improve the security posture of the organization.
+
+To address gaps in compliance, Botium Toys needs to adhere to international regulations and laws by keeping customer data safe through encryption. Other practices such as separation of duties, keeping E.U. data secure, and ensuring that data is properly classified will help identify controls needed to improve the security posture of the organization and protect its critical assets.
 
