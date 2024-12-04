@@ -6,7 +6,7 @@
 
 # Case Study
 
-### This is based on a fictional company:
+### This is based on a fictional company: 
 
 **Botium Toys** is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, storefront, and warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, its information technology (IT) department is under increasing pressure to support its online market worldwide.
 
