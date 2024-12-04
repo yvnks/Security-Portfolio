@@ -14,3 +14,8 @@ Additionally, I appreciate the art of programming, as it streamlines workflows a
 I am also passionate about adhering to ethics and compliance. Integrity is a key value in cybersecurity; I firmly believe in doing what is right, even when it is challenging, and upholding ethical standards.
 
 Furthermore, I value collaboration and promoting integrity among team members. I believe that working together with professionals from diverse backgrounds is essential in addressing evolving threats and mitigating risks and data breaches. My goal is to ensure integrity within any team I work with by fostering transparency among team members.
+
+### Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/jj-yankson/Jojo-s-Cybersecurity-Portfolio/tree/main) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
