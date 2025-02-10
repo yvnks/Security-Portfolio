@@ -1,4 +1,4 @@
-  # Jojo's-Cybersecurity-Portfolio.
+  # JOJO's CYBERSECURITY JOURNEY.
 **Professional Statement**
 
 If you are reading this, it means you came across my portfolio, I hope you find my journey inspiring. 
