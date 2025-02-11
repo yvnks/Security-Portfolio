@@ -18,3 +18,4 @@ Thank you for visiting and i hope this journey inspires you as it motivates me.
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://github.com/jj-yankson/Jojo-s-Cybersecurity-Portfolio/tree/main) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2]([https://github.com/jj-yankson/Jojo-s-Cybersecurity-Portfolio/tree/main](https://github.com/yvnks/CYBERSECURITY-PORTFOLIO/tree/7ee7b6e0f2d49424eae8e09f07fcbac82ff8f887/2%20-%20Portfolio/2%20-%20Network%20Architecture%20%26%20Security)) - Network Analysis | `TCP/IP`, `DHCP`, `Network Protocols`, `Network Architecture`, `Network Security`, `OSI model`, `Cloud computing`, `Software Defined Networks`, `Subnetting & CIDR`, `Firewalls`,`VPN`,`IEEE802.11` |
