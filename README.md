@@ -1,18 +1,16 @@
-  # JOJO's CYBERSECURITY JOURNEY.
-**Professional Statement**
+  # Jeff's cybersecurity journey.
+**professional summary**
 
-If you are reading this, it means you came across my portfolio, I hope you find my journey inspiring. 
-My name is Jefferson Joojo Yankson. I am pursuing a Bachelor of Science in Information Technology in Ghana, with a major in Computer Security.
-I am driven towards Safeguarding Systems And Networks.
+As an Information Technology student with three years of experience in core security technologies, I aim to safeguard systems and networks from threat actors by ensuring robust security mechanisms are in place.
 
-In information technology, I see a purposeful and versatile vocation yet cybersecurity is what I love most. Last year, I read about recent digital attacks and how they've impacted 
-the digital world. I came across the Equifax breach. Due to the lack of secured systems, Personally Identifiable Information known as PII and Sensitive Personally Identifiable Information known as SPII were leaked. 
-The breach highlighted the need for robust mechanisms to safeguard both individual privacy and organizational integrity.
+Currently, I'm enrolled in Google's cybersecurity certificate program which is preparing me for CompTIA Sec+ certification. The course covered key topics such as `Information Security`, `Compliance and ethics in cybersecurity`,
+`Security Audits`, `The bits and bytes of computer networking and network security`, `Linux & SQL`, `Assets, threats & vulnerabilities`, `SIEM tools`, and `Python`. I believe this course is a stepping stone for me as I aim to 
+progress while learning. 
 
 As I continue to deepen my knowledge and practical skills, I remain committed to developing a strong foundation in the core areas of cybersecurity, including risk management, encryption, ethical hacking, and network security.
 This portfolio reflects the skills I have acquired so far. I will keep updating it as I pace forward. 
 
-Thank you for visiting and i hope this journey inspires you as it motivates me.
+Thank you for visiting and I hope this journey inspires you as it motivates me.
 
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
